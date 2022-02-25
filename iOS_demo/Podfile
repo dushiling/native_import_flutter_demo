@@ -1,0 +1,6 @@
+flutter_application_path = '../flutter_module'
+load File.join(flutter_application_path, '.ios', 'Flutter', 'podhelper.rb')
+
+target 'iOS_demo' do
+  install_all_flutter_pods(flutter_application_path)
+end

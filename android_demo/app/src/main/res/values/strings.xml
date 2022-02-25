@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android_demo</string>
+    <string name="flutter">跳转到Flutter页面</string>
+</resources>
