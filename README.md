@@ -17,5 +17,5 @@
 
 ### 操作说明
 请查看我的文章：
-- [Flutter-module嵌入iOS原生项目](https://www.jianshu.com/writer#/notebooks/10142736/notes/98700799)
-- [Flutter-module嵌入Android原生项目](https://www.jianshu.com/writer#/notebooks/10142736/notes/98702613)
+- [Flutter-module嵌入iOS原生项目](https://www.jianshu.com/p/651edc515034)
+- [Flutter-module嵌入Android原生项目](https://www.jianshu.com/p/e6497d8c7dbe)
